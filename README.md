@@ -7,9 +7,6 @@
 ### Can we PREDICT a positive DJI timeframe by using weather forecasting?
 
 ## Project 2: Scanning a pokemon: Team balance recommendation - Notable pokemon near you (using multiple large pokemon stat datasets; large pokemon image dataset; geographic location dataset for specific pokemon features)!
-- Pokemon 
-- Daily performance from 1992 to 2022 
-- Comparison over other atmospheric features
 
 ## Questions we want to answer: 
 ### Can we create a pokemon image classifier?
