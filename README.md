@@ -2,12 +2,12 @@
 ### Chris Weber, Elder Arias, Terra Lasho, Pierre Boucard, and Thaofeeqat Dauda
 ## Introduction: 
 - This document provides a checkpoint, a first ‘planned sketch’ including a brief description of our technological intentions as we navigate this project.  So far, our group has narrowed down project ideas to 2, and as we continue this week to our final choice, we will delineate the needs/pathway for each below:
-### Project 1: <Dow Jones Index Daily Performance by US Atmospheric Influence
+### Project 1: Dow Jones Index Daily Performance by US Atmospheric Influence
 #### Questions we want to answer:
 - Does the US daily average weather have influence over DJI's performance (using dataset containing daily performance from 1992 to 2022; and archived US weather from NWA)?
 - Can we PREDICT a positive DJI timeframe by using weather forecasting?
 
-### Project 2: <Scanning a pokemon: Team balance recommendation - Notable pokemon near you (using multiple large pokemon stat datasets; large pokemon image dataset; geographic location dataset for specific pokemon features)!
+### Project 2: Scanning a pokemon: Team balance recommendation - Notable pokemon near you (using multiple large pokemon stat datasets; large pokemon image dataset; geographic location dataset for specific pokemon features)!
 
 #### Questions we want to answer: 
 - Can we create a pokemon image classifier?
