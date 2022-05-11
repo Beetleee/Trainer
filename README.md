@@ -14,15 +14,16 @@
 - Can we predict the type of pokemon based on having a gender vs. not?
 - Can we provide a map and recommendation for pokemon features near you?
 
-### Technologies Used:
+## Technologies Used:
 -	Software: Jupyter Notebook, and Python 3.7.9
 -	Python libraries:
-o	Numpy
-o	Pandas
-o	Seaborn (violin, factorplot, heatmap)
-o	Matplotlib
-o	Graphvis (for graphic visualization)
-o	Scikit-Learn
+- Numpy
+- Pandas
+- Seaborn (violin, factorplot, heatmap)
+- Matplotlib
+- Graphvis (for graphic visualization)
+- Scikit-Learn
+
 ## Data Cleaning and Analysis
 -	Pandas will be used to clean the data and perform an exploratory analysis. First we will import our CSV files into a pandas dataframe. Next, we will loop through the data using pandas and convert and transform the categorical data (LabelEncoder and pandas). We will next clean the data by dropping rows with missing values, or filling in the row that has a missing value. Finally, we will merge the datasets to be used for analysis.
 -	Numpy will be used for linear algebra and fixing arrays, Seaborn for cool visualizations, matplotlib for figures, graphviz for awesome graph visualization and Scikit-Learn for preprocessing and machine learning algorithms.
