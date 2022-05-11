@@ -1,6 +1,7 @@
 # Team-group1  - Technology.md Document
 ### Chris Weber, Elder Arias, Terra Lasho, Pierre Boucard, and Thaofeeqat Dauda
-## Introduction: This document provides a checkpoint, a first ‘planned sketch’ including a brief description of our technological intentions as we navigate this project.  So far, our group has narrowed down project ideas to 2, and as we continue this week to our final choice, we will delineate the needs/pathway for each below:
+## Introduction: 
+- This document provides a checkpoint, a first ‘planned sketch’ including a brief description of our technological intentions as we navigate this project.  So far, our group has narrowed down project ideas to 2, and as we continue this week to our final choice, we will delineate the needs/pathway for each below:
 ## Project 1: Dow Jones Index Daily Performance by US Atmospheric Influence
 ## Questions we want to answer:
 ### Does the US daily average weather have influence over DJI's performance (using dataset containing daily performance from 1992 to 2022; and archived US weather from NWA)?
